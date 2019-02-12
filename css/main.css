@@ -1,8 +1,10 @@
 #you {
     background-color: red;
+    font-style: italic;
 }
 
 .me {
     color: black;
-    background-color: blue;
+    background-color: yellowgreen;
+    border: 3px solid green;
 }
